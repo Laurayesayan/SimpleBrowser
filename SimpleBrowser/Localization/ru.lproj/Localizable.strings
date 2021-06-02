@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  SimpleBrowser
+
+  Created by Laura Esaian on 01.06.2021.
+  
+*/
+
+"SEARCH_BAR_PLACEHOLDER" = "Введите URL страницы";
+"YES" = "Да";
+"GENERAL_ERROR_TITLE" = "Произошла ошибка";
